@@ -7,6 +7,11 @@ SmartRemind is a Reflex-based Assignment Reminder AI Agent designed to help stud
 The goal of SmartRemind is to reduce missed deadlines and improve student time management through automated deadline awareness and assignment prioritization.
 
 ---
+## System Diagram
+
+![System Diagram](systemdiagram.png)
+
+---
 
 ## Features
 
@@ -153,9 +158,9 @@ smartremind_reflex/
 
 ### Dashboard
 
-```markdown
-![Dashboard](screenshots/dashboard.png)
-```
+
+![Dashboard](dashboard.png)
+
 
 ---
 
